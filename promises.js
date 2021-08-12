@@ -1,7 +1,7 @@
 
 
 const inventory = {
-    sunglasses: 4000,
+    sunglasses: 410010,
     pants: 1088,
     bags: 1344
   };
